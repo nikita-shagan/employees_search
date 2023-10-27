@@ -1,0 +1,41 @@
+.card {
+  padding: 24px;
+  border-radius: 16px;
+  background: #FFF;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.10);
+  cursor: pointer;
+}
+
+.card__title {
+  color: #262C40;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  padding: 0;
+  margin: 0 0 24px;
+}
+
+.card_contacts {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.card_contact {
+  display: flex;
+  gap: 14px;
+}
+
+.card_contact-text {
+  color: #8189A3;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 0;
+  padding: 0;
+}
