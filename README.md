@@ -1,16 +1,28 @@
-## Movies Explorer
+# Employees Search
 
-#### _Технологии, используемые в проекте:_
+## _Technologies:_
 
 *   HTML5
 *   CSS3
 *   JavaScript
 *   React
 
-#### _Ссылки:_
+## Getting Started
 
-*   Github: https://github.com/nikita-shagan/movies-explorer-frontend
-*   Макет: https://disk.yandex.ru/d/9VFn0qZXYprsYQ
-*   Пулл реквест: https://github.com/nikita-shagan/movies-explorer-frontend/pull/2
-*   Сайт: https://explorer.nomoreparties.sbs/
-*   API: https://api.explorer.nomoreparties.sbs/
+First, run the development [server](https://drive.google.com/file/d/1bRxaW02JMJA1Z4CBWLv_-j6UzeHSrzJ_/view?usp=sharing):
+
+```bash
+npm install
+
+npm start
+```
+
+Then, run this React App:
+
+```bash
+npm install
+
+npm start
+```
+
+Choose Yes to change the default port. You can now view site in the browser.
